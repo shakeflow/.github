@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## The next generation of seismic packages for the Big Data & AI
 
 **Here are some ideas to get you started:**
 
